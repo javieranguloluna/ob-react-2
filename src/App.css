@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.App > header > h2 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
